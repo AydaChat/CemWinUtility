@@ -1,0 +1,83 @@
+﻿{
+    "WPFInstall": {
+        "Content": "Uygulamaları Yükle/Güncelle",
+        "Category": "____Eylemler",
+        "Type": "Button",
+        "Order": "1",
+        "Description": "Seçilen uygulamaları yükle veya güncelle"
+    },
+    "WPFUninstall": {
+        "Content": "Uygulamaları Kaldır",
+        "Category": "____Eylemler",
+        "Type": "Button",
+        "Order": "2",
+        "Description": "Seçilen uygulamaları kaldır"
+    },
+    "WPFInstallUpgrade": {
+        "Content": "Tüm Uygulamaları Güncelle",
+        "Category": "____Eylemler",
+        "Type": "Button",
+        "Order": "3",
+        "Description": "Tüm uygulamaları en son sürüme güncelle"
+    },
+    "WingetRadioButton": {
+        "Content": "WinGet",
+        "Category": "__Paket Yöneticisi",
+        "Type": "RadioButton",
+        "GroupName": "PackageManagerGroup",
+        "Checked": true,
+        "Order": "1",
+        "Description": "Paket yönetimi için WinGet kullan"
+    },
+    "ChocoRadioButton": {
+        "Content": "Chocolatey",
+        "Category": "__Paket Yöneticisi",
+        "Type": "RadioButton",
+        "GroupName": "PackageManagerGroup",
+        "Checked": false,
+        "Order": "2",
+        "Description": "Paket yönetimi için Chocolatey kullan"
+    },
+    "WPFCollapseAllCategories": {
+        "Content": "Tüm Kategorileri Daralt",
+        "Category": "__Seçim",
+        "Type": "Button",
+        "Order": "1",
+        "Description": "Tüm uygulama kategorilerini daralt"
+    },
+    "WPFExpandAllCategories": {
+        "Content": "Tüm Kategorileri Genişlet",
+        "Category": "__Seçim",
+        "Type": "Button",
+        "Order": "2",
+        "Description": "Tüm uygulama kategorilerini genişlet"
+    },
+    "WPFClearInstallSelection": {
+        "Content": "Seçimi Temizle",
+        "Category": "__Seçim",
+        "Type": "Button",
+        "Order": "3",
+        "Description": "Uygulama seçimlerini temizle"
+    },
+    "WPFGetInstalled": {
+        "Content": "Yüklü Uygulamaları Göster",
+        "Category": "__Seçim",
+        "Type": "Button",
+        "Order": "4",
+        "Description": "Sistemde yüklü olan uygulamaları göster"
+    },
+    "WPFselectedAppsButton": {
+        "Content": "Seçilen Uygulamalar: 0",
+        "Category": "__Seçim",
+        "Type": "Button",
+        "Order": "5",
+        "Description": "Seçilen uygulamaları göster"
+    },
+    "WPFInstallFOSSInfo": {
+        "Content": "Özgür ve Açık Kaynaklı Yazılım",
+        "Category": "__Seçim",
+        "Type": "Note",
+        "Order": "0",
+        "Description": "Uygulama girdilerindeki #FOSS etiketi hakkında bilgi"
+    }
+}

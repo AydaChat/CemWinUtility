@@ -1,0 +1,25 @@
+﻿========================================================================
+                   CemWinUtility (Windows Yardımcı Programı)
+========================================================================
+
+CemWinUtility, Windows kurulumlarını hızlandıran, sistemi optimize eden,
+ince ayarlar uygulayan ve Windows güncellemelerini yöneten taşınabilir bir araçtır.
+
+KULLANIM TALİMATI:
+-----------------
+1. CemWinUtility'yi Başlatmak İçin:
+   - Klasör içindeki "CemWinUtility.cmd" dosyasına çift tıklayın.
+   - Açılan UAC (Kullanıcı Hesabı Denetimi) uyarısına "Evet" deyin.
+   - Program doğrudan arayüzü ile açılacaktır.
+
+2. Masaüstüne Kısayol Eklemek İçin (İsteğe Bağlı):
+   - "Masaüstü_Kısayolu_Oluştur.cmd" dosyasına çift tıklayın.
+   - Masaüstünüze özel simgesiyle doğrudan Yönetici olarak çalışan
+     "CemWinUtility" kısayolu eklenecektir.
+
+ÖNEMLİ BİLGİLER:
+---------------
+- İnternet bağlantısı olmadan da açılabilir (Offline mod).
+- Uygulama kurulumları veya Windows güncelleme kontrolleri için internet gerekir.
+- Herhangi bir kurulum gerektirmez, taşınabilirdir (USB bellekten çalıştırılabilir).
+========================================================================
